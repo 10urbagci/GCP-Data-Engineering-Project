@@ -1,0 +1,9 @@
+#GCP Credentials
+peerless-tiger-400109-d76af527198c.json
+
+#Terraform
+terraform.tfvars
+variables.tf
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
