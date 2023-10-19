@@ -12,3 +12,6 @@ terraform.tfstate
 bike_data_velib.csv
 bike_data_velib2.json
 transformed_bike_data.csv
+
+#env
+.env
