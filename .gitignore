@@ -7,3 +7,7 @@ variables.tf
 .terraform
 .terraform.lock.hcl
 terraform.tfstate
+
+#CSV and JSON files
+bike_data_velib.csv
+bike_data_velib2.json
